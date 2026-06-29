@@ -1,13 +1,27 @@
-# 📊 Images
+# 📂 Dataset
 
-This folder contains visualizations generated during Exploratory Data Analysis (EDA) and model evaluation.
+This folder contains the dataset used for training and evaluating the machine learning models.
 
-Example visualizations include:
+## Dataset
 
-- Correlation Heatmap
-- Distribution Plots
-- Box Plots
-- Histograms
-- Regression Analysis Charts
+- **ford.csv**
 
-These visualizations help understand the dataset, identify relationships between features, and evaluate model performance.
+The dataset contains information about Ford cars including:
+
+- Model
+- Year
+- Price
+- Transmission
+- Mileage
+- Fuel Type
+- Tax
+- MPG
+- Engine Size
+
+The dataset was used for:
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Model Evaluation
